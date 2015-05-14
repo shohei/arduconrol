@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-62b9031b64d77fd54791c4deb63aba54464d3919.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-069348b96e63281f3976a7dc33ef3341d0ac483c.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/classes-94fa5147b604c267c5914133810736bd973fcc24.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/libs/usb-serial-for-android-v010.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c49e65ea5d8d4c1311d0c1189adb07b2c01be29a">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/usb-serial-for-android-v010-f25efd9d14c2a9089bd610befcd8706905dcc2bb.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/classes-361d642c1df997288458d3ae0c37ec0b9f09e208.jar" />
+    </item>
+
+</items>
