@@ -2,39 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jar="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/libs/usb-serial-for-android-v010.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c49e65ea5d8d4c1311d0c1189adb07b2c01be29a">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/pre-dexed/debug/usb-serial-for-android-v010-07e8df61f99df07861f566c85b97ce7c7a824f47.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-62b9031b64d77fd54791c4deb63aba54464d3919.jar" />
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-98ad83e862910b91e90914189bc80de0cba42a1f.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/pre-dexed/debug/classes-28c91649bbe8073b83d73c648e4b12b68473219b.jar" />
     </item>
     <item
         jar="/Users/shohei/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-069348b96e63281f3976a7dc33ef3341d0ac483c.jar" />
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-069348b96e63281f3976a7dc33ef3341d0ac483c.jar" />
     </item>
     <item
-        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jar="/Users/shohei/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0-6e9d696e5a4929ce72628cfe8513c45dae8cc921.jar" />
+    </item>
+    <item
+        jar="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/classes-94fa5147b604c267c5914133810736bd973fcc24.jar" />
-    </item>
-    <item
-        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/libs/usb-serial-for-android-v010.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c49e65ea5d8d4c1311d0c1189adb07b2c01be29a">
-        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/usb-serial-for-android-v010-f25efd9d14c2a9089bd610befcd8706905dcc2bb.jar" />
-    </item>
-    <item
-        jar="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/Users/shohei/.ghq/github.com/shohei/arduconrol/app/build/intermediates/pre-dexed/debug/classes-361d642c1df997288458d3ae0c37ec0b9f09e208.jar" />
+        <dex dex="/Users/shohei/.ghq/github.com/shohei/arducontrol/Android/app/build/intermediates/pre-dexed/debug/classes-48bb6f6b2a43fd933cf33c90dee370733922ce23.jar" />
     </item>
 
 </items>
